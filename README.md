@@ -26,7 +26,7 @@ All use-cases were analysed, and tranformed into their respective table. `import
 <img align="center" alt="chebotko" width="50%" src="./chebotko.png?raw=true" />
 </p>
 
-#### `Original documents in greek`
+#### `Original documents in greek:`
 In `project_big_data_2021-22.pdf` you can find the project description as given by my professor in `University of Patras`.
 
 In `Αναφορά Συστήματα Διαχείρισης Δεδομένων Μεγάλου Όγκου.docx.pdf` you can find my respective report.
