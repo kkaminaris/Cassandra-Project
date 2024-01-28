@@ -1,5 +1,4 @@
 # Cassandra-Project
- Academic data base project based on Cassandra
 
 Simple Casssandra-based DB to organize and manage a Netflix-like application data.
 
