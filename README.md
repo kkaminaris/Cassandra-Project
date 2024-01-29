@@ -27,4 +27,4 @@ Data sets can be found [here](https://www.kaggle.com/datasets/grouplens/movielen
 ## Documentation in Greek
 
 - **Project Description:** Find the original project description in [project_big_data_2021-22.pdf](project_big_data_2021-22.pdf) provided by the professor at the University of Patras.
-- **Report:** Access my detailed report in [Αναφορά Συστήματα Διαχείρισης Δεδομένων Μεγάλου Όγκου.docx.pdf](Αναφορά Συστήματα Διαχείρισης Δεδομένων Μεγάλου Όγκου.docx.pdf).
+- **Report:** Access my detailed report in [Αναφορά_Συστήματα_Διαχείρισης_Δεδομένων_Μεγάλου_Όγκου.docx.pdf](Αναφορά_Συστήματα_Διαχείρισης_Δεδομένων_Μεγάλου_Όγκου.docx.pdf).
