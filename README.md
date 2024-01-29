@@ -1,33 +1,30 @@
 # Cassandra-Project
 
-Simple Casssandra-based DB to organize and manage Netflix-like application data.
+A simple Cassandra-based database designed for organizing and managing data in a Netflix-like application. The project involves analyzing various use-cases, transforming them into their respective tables, and utilizing the Python scripts `import[1-5].py` and `movie_remap.py` for data manipulation. The data is then loaded into AstraDB using dsbulk, and querying is performed using `question[1-5].py` scripts.
 
 Data sets can be found [here](https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset).
 
-All use-cases were analysed, and tranformed into their respective table. `import[1-5].py` and `movie_remap.py` are used to manipulate the csv files. Then `dsbulk` was used to load the DB. Finally with `question[1-5].py` we connect to `AstraDB` and return the data that we want.
-
-#### `Technologies used:`
+## Technologies Used
 
 - Python
 - AstraDB
 - dsbulk
 
-#### `Use-cases developed:`
+## Developed Use-Cases
 
-- Q1. Show the 30 higher rated movies from 01/01/2015 to 15/01/2015
-- Q2. Show movie details for Jumanji (category, avg rating, top-5 tags)
-- Q3. Show movies under the category "adventure" sorted by production year
-- Q4. Show movies with "star" in their title
-- Q5. Show the 20 higher rated movies that have the tag "comedy"
+1. **Q1:** Show the 30 highest-rated movies from 01/01/2015 to 15/01/2015.
+2. **Q2:** Display movie details for Jumanji (category, average rating, top-5 tags).
+3. **Q3:** Show movies under the category "adventure," sorted by production year.
+4. **Q4:** Show movies with "star" in their title.
+5. **Q5:** Show the 20 highest-rated movies with the tag "comedy."
 
-#### `Chebotko diagram:`
+## Chebotko Diagram
 
 <p align="center">
-<img align="center" alt="chebotko" width="50%" src="./chebotko.png?raw=true" />
+<img align="center" alt="chebotko" width="70%" src="./chebotko.png?raw=true" />
 </p>
 
-#### `Original documents in greek:`
-In `project_big_data_2021-22.pdf` you can find the project description as given by my professor in `University of Patras`.
+## Documentation in Greek
 
-In `Αναφορά Συστήματα Διαχείρισης Δεδομένων Μεγάλου Όγκου.docx.pdf` you can find my respective report.
-
+- **Project Description:** Find the original project description in [project_big_data_2021-22.pdf](project_big_data_2021-22.pdf) provided by the professor at the University of Patras.
+- **Report:** Access my detailed report in [Αναφορά Συστήματα Διαχείρισης Δεδομένων Μεγάλου Όγκου.docx.pdf](Αναφορά Συστήματα Διαχείρισης Δεδομένων Μεγάλου Όγκου.docx.pdf).
