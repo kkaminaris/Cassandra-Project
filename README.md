@@ -1,6 +1,6 @@
 # Cassandra-Project
 
-A simple Cassandra-based database designed for organizing and managing data in a Netflix-like application. The project involves analyzing various use-cases, transforming them into their respective tables, and utilizing the Python scripts `import[1-5].py` and `movie_remap.py` for data manipulation. The data is then loaded into AstraDB using dsbulk, and querying is performed using `question[1-5].py` scripts.
+A simple Cassandra-based database designed for organizing and managing data in a Netflix-like application. The project involves analyzing various use-cases, transforming them into their respective tables, and utilizing the Python scripts `import[1-5].py` and `movie_remap.py` for data manipulation. The data is then loaded into AstraDB using `dsbulk`, and querying is performed using `question[1-5].py` scripts.
 
 Data sets can be found [here](https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset).
 
